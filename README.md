@@ -1,5 +1,5 @@
 # payback
-A torrent client that will help fight alzheimers. Watch this https://www.youtube.com/watch?v=cZYNADOHhVY to realize why completing this at its earliest is most important.
+A torrent client that will help fight alzheimers. Watch this https://www.youtube.com/watch?v=cZYNADOHhVY to realize why completing this at its earliest is most important.https://www.youtube.com/watch?v=tkIg-SxPzTA
 This project aims to create a torrent client that will also take up some processing power on the user's computer and dedicate it to running algorithms for predicting feasible structures of potential anti-alzheimer serum.  
  This project hasn't even been started properly, but the code has to be fast and efficient so it has to be written in C. Also Comment everything plz, I'm very inexperienced. Any suggestion are a boon. 
 Ideas: Find the best algorithms, code them into a torrent client. Later make it very functional like tixati. Make updates seamless to keep developing while users run it,designing proteins is an np level hard problem https://www.youtube.com/watch?v=0LetJMbu7uY and minimisation of serial processing is needed. More ideas are on the way.
